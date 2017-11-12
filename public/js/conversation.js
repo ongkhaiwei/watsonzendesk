@@ -36,7 +36,7 @@ var ConversationPanel = (function() {
 
   function setupZen() {
     zChat.init({
-      account_key: 'XXXXX'
+      account_key: '5FHA9NU5a4UoEjjbio9Y0eDNOBWpGBfc'
     });
 
     const events = [
